@@ -1,0 +1,24 @@
+<package>
+	<id>org.chronic-dev.animate</id>
+	<name>animate</name>
+	<version>1.0.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.2.1</miniOS>
+			<maxiOS>8.4.1</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A working copy of org.chronic-dev.animate</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
