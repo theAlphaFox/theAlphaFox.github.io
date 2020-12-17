@@ -1,0 +1,69 @@
+Package: com.jerryen.BlurEnabler
+Version: 0.3-1
+Architecture: iphoneos-arm
+Installed-Size: 188
+Depends: mobilesubstrate, firmware (>= 7.0), applist
+Conflicts: com.jerryen.fastblurrednotificationcenter7
+Filename: ./debs/com.jerryen.BlurEnabler_0.3-1_iphoneos-arm.deb
+Size: 28754
+MD5sum: ccf8b2bfed65a5ee434f3d3828eec465
+SHA1: 06389f5a7764c3955957251a94331ed46df42929
+SHA256: 296b0211a39d0bddee13fae54ed0d55ffa5d5efed72af3ae46578e83d43d02c1
+Section: System
+Description: Enable blur everywhere.
+Author: Jerry En <Jerry+blurenabler@jerryen.com>
+Depiction: http://cydia.jerryen.com/blurenabler.html
+Name: BlurEnabler
+
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
+Description: This is a sample new package. Firmware should be greater than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
+Section: Tweaks
+Description: This is a sample old package. Firmware should be lower than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Name: Old Package
+
+Package: org.chronic-dev.animate
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Bigboss <bigboss@thebigboss.org>
+Installed-Size: 204
+Depends: preferenceloader
+Filename: ./debs/org.chronic-dev.animate.deb
+Size: 522524
+MD5sum: a3f419911bf03806bbe43753c5fc46c4
+SHA1: 2e6922269aeeb54ff8446ae777548f6d14e90783
+SHA256: 92d317d136c697e321a5f866009ebc3d0178fb043239e3272ab73215742ee491
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animateData
+Description: Boot Logo Animations for 4.2.1 untether fixed by Cipher
+Author: Chronic-Dev Inc. <jaywalker@chronic-dev.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animateData
+Dev: chronic-dev
+Name: animate
+Sponsor: thebigboss.org <http://thebigboss.org>
+
